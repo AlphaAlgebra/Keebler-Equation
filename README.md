@@ -1,7 +1,9 @@
 # Keebler-Equation
-My unique equation inspired but Einstein.
+My unique equation Inspired by Einstein.
 
-<img width="233" height="81" alt="Screenshot 2026-04-04 10 23 48 PM" src="https://github.com/user-attachments/assets/2829eec2-549c-4cc4-8b1f-e7fdc89bf01f" />
+### The Equations
+$$E_1 = k(M_1 C^2 + H_1)$$
+$$E_2 = k(M_2 C^2 + H_2)$$
 
 ## Intellectual Property & Licensing
 
