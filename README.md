@@ -112,15 +112,20 @@ This work synthesizes principles from theoretical physics, linear algebra, and m
 ---
 ## Intellectual Property & Licensing
 
+**Copyright © 2026 Jasmine Rae Keebler (AlphaAlgebra). All Rights Reserved.**
 
-**Copyright (c) 2026 Jasmine Rae Keebler (AlphaAlgebra). All Rights Reserved.**
+This repository, including all original mathematical proofs, Gaussian Elimination models, conceptual frameworks, and the proprietary **Keebler-Equation ($E = k(mc^2 + H)$)**, constitutes the sole intellectual property of **Jasmine Rae Keebler**.
 
-This repository contains original mathematical proofs, conceptual frameworks, and the proprietary **Keebler-Equation ($E = k(mc^2 + H)$)**, which are the sole intellectual property of the author.
+### Terms of Use
+By accessing, viewing, or interacting with this repository, you agree to the following legally binding terms:
 
-**By accessing this repository, you agree to the following terms:**
-*   **No Unauthorized Use:** You may not copy, modify, distribute, or use this work for any commercial or non-commercial purpose without express written permission from Jasmine Rae Keebler.
-*   **No Derivatives:** You may not create derivative works or alternative models based on the specific logic, variables, or proofs contained herein.
-*   **Attribution:** Any academic discussion, citation, or reference to this work must provide full and clear credit to **Jasmine Rae Keebler**.
+*   **Non-Disclosure & No Unauthorized Use:** You are strictly prohibited from copying, modifying, distributing, or utilizing this work for any commercial, non-commercial, or academic purpose without express, dated, and written permission from Jasmine Rae Keebler.
+*   **Anti-Derivative Clause:** You may not create derivative works, "forks" for the purpose of modification, or alternative mathematical models based on the specific logic, variables, or unique proofs contained herein.
+*   **No Reverse Engineering:** The systematic application of Gaussian Elimination to solve for the $H$ (Spiritual Energy) and $k$ (Efficiency) variables is a proprietary methodology. Reverse engineering these algorithms for external use is prohibited.
+*   **Mandatory Attribution:** Any authorized discussion, citation, or reference to this framework in any medium must provide full, clear, and prominent credit to **Jasmine Rae Keebler**.
+*   **Reservation of Rights:** The author reserves the right to revoke access or pursue legal remedies for any violation of these terms.
 
-*For licensing inquiries or formal permission to utilize this framework, please contact the repository owner directly via GitHub.*
+---
+**For licensing inquiries, formal research collaborations, or permission to utilize this framework, please contact the repository owner directly via GitHub.**
+
 
