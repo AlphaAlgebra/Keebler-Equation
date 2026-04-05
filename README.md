@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Keebler-Equation
 **Bridging Faith and Science**
 
@@ -129,3 +130,22 @@ By accessing, viewing, or interacting with this repository, you agree to the fol
 **For licensing inquiries, formal research collaborations, or permission to utilize this framework, please contact the repository owner directly via GitHub.**
 
 
+=======
+# The Classic to Quantum Bridge
+## Author: Jasmine Keebler
+### The Master Equation: E = k(mc² + H)
+
+**The Keebler Axiom:**
+Total Energy (E) is the product of Systemic Efficiency (k) and the sum of Physical Mass (mc²) and Latent Spiritual Potential (H).
+
+**Groundbreaking Results:**
+- Identified a thermodynamic "Leak" of **-1.35e17** Joules.
+- Visualized the "Master Stack" in 3D Neon logic.
+- Established the formal bridge between classical physics and quantum potential.
+
+© 2026 JASMINE KEEBLER - ALL RIGHTS RESERVED
+>>>>>>> 0acc409 (Formalization of the Keebler Axiom and 3D Master Stack)
+
+## Citation
+If you use this work in your research, please cite it as:
+**Keebler, J. (2026). The Classic to Quantum Bridge. GitHub.**
