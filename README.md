@@ -34,7 +34,8 @@ To illustrate the Keebler-Equation in a real-world scenario, consider a communit
 
 By calculating $E$, we can determine the total impact of the effort beyond just the physical work performed.
 
-## Tempora### 2. Transition: The Decoherence Event
+2. Transition: The Decoherence Event
+   
 As the **Efficiency Constant ($k$)** stabilizes through action and observation, the system undergoes a mathematical decoherence. The "noise" of the quantum state begins to align with the structural requirements of the physical world.
 
 ### 3. Final State: The Classical Phase
