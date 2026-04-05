@@ -17,7 +17,7 @@ $$E_2 = k(M_2 C^2 + H_2)$$
 ## Conceptual Bedrock
 
 ### Mass-Energy Equivalence ($mc^2$)
-This term addresses our daily physical realities—the tangible work and matter that ground our existence.
+This term addresses our daily physical realities  the tangible work and matter that ground our existence.
 
 ### Spiritual Energy Representation ($H$)
 This variable captures the "unseen" drivers of human action. It accounts for how kindness or inspiration manifests as a measurable force, demonstrating the coexistence of spiritual and material experiences.
