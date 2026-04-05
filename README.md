@@ -82,6 +82,33 @@ The matrix successfully extracts the exact magnitude of **Spiritual Energy ($H$)
 ### 📉 Efficiency Gap Detection (Stress Test)
 When the matrix fails to reduce to a zero-row $[0 \mid 0]$, it identifies a "Decoherence" in the group's shared purpose. This mathematical "residual" represents the energy lost to a drop in the Efficiency Constant ($k$), allowing us to diagnose exactly when a project loses its spiritual focus.
 
+## 📚 References & Academic Foundation
+
+This work synthesizes principles from theoretical physics, linear algebra, and metaphysical philosophy. The following sources provided the foundational context for the development of the Keebler-Equation:
+
+### Physics & Mathematics
+*   **Campbell, J. (2017).** *Representation Theory and Quantum Mechanics Tutorial.* Harvard University. [Link](https://people.math.harvard.edu/~campbell/qmnotes3.pdf)
+*   **Myrvold, W., et al. (2019).** "Bell’s Theorem." *Stanford Encyclopedia of Philosophy.* [Link](https://plato.stanford.edu/entries/bell-theorem/)
+*   **Perkowitz, S. (2018).** "E = mc^2 | Equation, Explanation, & Proof." *Encyclopædia Britannica.* [Link](https://www.britannica.com/science/E-mc2-equation)
+*   **Shabel, L. (2013).** "Kant’s Philosophy of Mathematics." *Stanford Encyclopedia of Philosophy.* [Link](https://plato.stanford.edu/entries/kant-mathematics/)
+*   **Squires, G. L. (2018).** "Quantum Mechanics." *Encyclopædia Britannica.* [Link](https://www.britannica.com/science/quantum-mechanics-physics)
+
+### Theology & Epistemology
+*   **Baglow, C. (2020).** "Faith & Science: Newton’s Laws & Flaws." *McGrath Institute.* [Link](https://mcgrathblog.nd.edu/faith-science-newtons-laws-flaws)
+*   **Bergeron, J., & Habermas, G. (2015).** "The Resurrection of Jesus: A Clinical Review." *Liberty University.* [Link](https://digitalcommons.liberty.edu/cgi/viewcontent.cgi?article=1407&context=lts_fac_pubs)
+*   **Bishop, J. (2016).** "Answering the Epicurus Dilemma." *Encyclopedia of Religion.* [Link](https://jamesbishopblog.com/2016/06/27/answering-the-epicurus-dilemma/)
+*   **Ehrlich, T. (2022).** "A Scientific Study for Eternal Life." *NDERF.* [Link](https://www.nderf.org/NDERF/Articles/science_eternal_life.pdf)
+*   **Engelhardt, H. T. (2005).** "What Is Christian about Christian Bioethics?" *Christian Bioethics Journal.*
+*   **Ichikawa, J. J. (2018).** "Faith and Epistemology." *Episteme.* [Link](https://doi.org/10.1017/epi.2018.30)
+*   **Jensen, J. H. (2021).** "Faith and Science: Symbiotic Pathways to Truth." *Y Magazine.* [Link](https://magazine.byu.edu/article/faith-science/)
+*   **The Holy Bible.** *English Standard Version (ESV).* (2001). Crossway Bibles.
+
+### Historical & Interdisciplinary Context
+*   **Brooks, C. (2020).** "The Scientific Revolution." *NSCC.* [Link](https://pressbooks.nscc.ca/worldhistory/chapter/chapter-10-the-scientific-revolution/)
+*   **Cartwright, M. (2023).** "Scientific Revolution." *World History Encyclopedia.* [Link](https://www.worldhistory.org/Scientific_Revolution/)
+*   **Newman, J. (2023).** "Promoting Interdisciplinary Research Collaboration." *Social Epistemology.* [Link](https://doi.org/10.1080/02691728.2023.2172694)
+*   **Technical Collaboration:** Framework refined in collaboration with AI on Google Search (2024).
+
 ---
 ## Intellectual Property & Licensing
 
