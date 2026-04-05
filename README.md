@@ -8,7 +8,7 @@ $$E_2 = k(M_2 C^2 + H_2)$$
 ### Variable Definitions
 *   **$E$**: Total Resultant Energy.
 *   **$k$**: Efficiency Constant (The percentage of potential energy successfully utilized).
-*   **$m$**: Relativistic Mass.
+*   **$M$**: Relativistic Mass.
 *   **$c$**: The Speed of Light ($299,792,458 \text{ m/s}$).
 *   **$H$**: Spiritual Energy Representation (The quantification of emotions, aspirations, faith, and inspiration).
 
@@ -28,11 +28,21 @@ This variable captures the "unseen" drivers of human action. It accounts for how
 
 To illustrate the Keebler-Equation in a real-world scenario, consider a community service project:
 
-*   **Mass ($m$):** Volunteers lifting a total of $2 \text{ kg}$ of supplies.
+*   **Mass ($M$):** Volunteers lifting a total of $2 \text{ kg}$ of supplies.
 *   **Spiritual Energy ($H$):** The positive energy derived from their shared faith and purpose, quantified at $100 \text{ J}$.
 *   **Efficiency Constant ($k$):** If the group utilizes $90\%$ of their combined physical and spiritual potential, $k = 0.9$.
 
 By calculating $E$, we can determine the total impact of the effort beyond just the physical work performed.
+
+## Tempora### 2. Transition: The Decoherence Event
+As the **Efficiency Constant ($k$)** stabilizes through action and observation, the system undergoes a mathematical decoherence. The "noise" of the quantum state begins to align with the structural requirements of the physical world.
+
+### 3. Final State: The Classical Phase
+Once the transition is complete, the graph's movement settles into **Classical Newtonian/Einsteinian Mechanics**.
+*   **Behavior:** Predictable, linear, and stable.
+*   **Outcome:** The energy ($E$) fully manifests as a measurable physical result ($mc^2$), proving that the "spiritual" input has been successfully grounded into "material" reality.
+
+> *"God does not play dice with the universe," but perhaps He uses the Quantum Phase to give us the freedom of choice before the Classical Phase sets the result (Macmillan Press, 1971).*
 
 ---
 ## Intellectual Property & Licensing
