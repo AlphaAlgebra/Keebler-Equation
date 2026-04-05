@@ -85,13 +85,15 @@ When the matrix fails to reduce to a zero-row $[0 \mid 0]$, it identifies a "Dec
 ---
 ## Intellectual Property & Licensing
 
-**Copyright (c) 2026 AlphaAlgebra. All Rights Reserved.**
 
-This repository contains original mathematical proofs and the "Keebler-Equation," which are the proprietary intellectual property of the author. 
+**Copyright (c) 2026 Jasmine Rae Keebler (AlphaAlgebra). All Rights Reserved.**
+
+This repository contains original mathematical proofs, conceptual frameworks, and the proprietary **Keebler-Equation ($E = k(mc^2 + H)$)**, which are the sole intellectual property of the author.
 
 **By accessing this repository, you agree to the following terms:**
-*   **No Unauthorized Use:** You may not copy, modify, distribute, or use this work for any commercial or non-commercial purpose without express written permission.
-*   **No Derivatives:** You may not create derivative works based on the logic or proofs contained herein.
-*   **Attribution:** Any discussion or reference to this work must provide full and clear credit to **AlphaAlgebra**.
+*   **No Unauthorized Use:** You may not copy, modify, distribute, or use this work for any commercial or non-commercial purpose without express written permission from Jasmine Rae Keebler.
+*   **No Derivatives:** You may not create derivative works or alternative models based on the specific logic, variables, or proofs contained herein.
+*   **Attribution:** Any academic discussion, citation, or reference to this work must provide full and clear credit to **Jasmine Rae Keebler**.
 
-*For licensing relayed questions or permission to use this work, please contact the repository owner directly via GitHub.*
+*For licensing inquiries or formal permission to utilize this framework, please contact the repository owner directly via GitHub.*
+
